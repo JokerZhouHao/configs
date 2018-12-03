@@ -1,7 +1,7 @@
 ## IdeaVim配置
 
 ### 说明
-插件位置C:\Users\Monica\.GoLand2018.2\config\plugins\IdeaVim\，使用的IDEA软件是GoLand 2018.02，[下载](files\IdeaVim.zip)。
+插件位置C:\Users\Monica\.GoLand2018.2\config\plugins\IdeaVim\，使用的IDEA软件是GoLand 2018.02，[下载](./files/IdeaVim.zip)。
 
 ### ideavimrc文件配置
 ``` java
